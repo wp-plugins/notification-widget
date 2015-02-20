@@ -8,20 +8,20 @@ Stable tag: 4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Notification Widget is a widget allowing you to get a individual overlay for your website.
+Notification Widget is a overlay allowing you to get a individual overlay for your website.
 
 
 == Description ==
-Notification Widget offers you the ability to insert and fully customize an overlay widget for your website/blog whatever. 
+Notification Widget offers you the ability to insert and fully customize an overlay widget for your website, blog, etc. 
 
-You can easily change all settings of the entire widget in the Dashboard. 
+You can easily change all settings of the entire overlay in the Dashboard. 
 There are the following settings for you to change:
 
-Style:
+Overlay Style:
 - colors of bar and content frame background
 - text of the content frame and bar
 
-Layout:
+Overlay Layout:
 - distance of the close button to the borders
 - size of the close button
 - height of the bar
@@ -31,19 +31,20 @@ Layout:
 
 == Installation ==
 1. Activate the \"Notification Widget\" plugin
-2. Customize your widget in the Dashboard under the point \"Notification Widget\"
+2. Customize your overlay in the Dashboard under the point \"Notification Widget\"
 3. Have fun!
 
 == Frequently Asked Questions ==
 - none -
 
 == Screenshots ==
-1. The widget
+1. The Overlay
 2. Dashboardview
 
 == Changelog ==
 1.0.0:
 first stable branch features:
+Overlay implements:
 - colors of bar and content frame background changeable
 - text of the content frame and bar changeable
 - distance of the close button to the borders changeable
